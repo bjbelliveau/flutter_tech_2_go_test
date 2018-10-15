@@ -1,0 +1,1143 @@
+[
+  {
+    "ModelName": "HP CM1312MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm1312mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM1410MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm1410mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM2320MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm2320mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM3530MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm3530mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM4540MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm4540mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM4730MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm4730mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM6030MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm6030mfp-cm6040mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CM6040MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-cm6030mfp-cm6040mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP1020",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp1020-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP1520",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp1520-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M177",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m176-m177-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP3525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp3525-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP4005",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-4700-cp4005-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4100MFP",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4100-4101mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4200",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4200-4250-4300-4350-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4250",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4200-4250-4300-4350-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4300",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4200-4250-4300-4350-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP6015",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp6015-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP Digital Sender 9200c",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-digital-sender-9200c-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP Digital Sender 9250c",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-digital-sender-9250c-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 1018",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-1018-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4350",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4200-4250-4300-4350-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 5000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-5000-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 5100",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-5100-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 8000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-8000-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 8100",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-8100-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4600",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-4600-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 5550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-5500-5550-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P4014",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p4015-series-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 4345MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-4345mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 4730MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-4730mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 9050N",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-9000-9050-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1005MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1005mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1120MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1120mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1130MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1130mfp-m1210mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1210MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1130mfp-m1210mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M126MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m125mfp-m126mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M127MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m127mfp-m128mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M128MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m127mfp-m128mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M12MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m125mfp-m126mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1319MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1319mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1522MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1522mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M1530MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m1530mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M175MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m175mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P4015",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p4015-series-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P4515",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p4015-series-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M225MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m225mfp-m226mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M226MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m225mfp-m226mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M251N",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m251n-m251nw-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M251NW",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m251n-m251nw-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M2727MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m2727mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M275NWMFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m275nwmfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M276 MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m276mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M3027MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m3027mfp-m3035mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M3035MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m3027mfp-m3035mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M351",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m351-m451-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M375MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m375mfp-m475mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M377MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m377mfp-m452-m477mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M401",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m401-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M425MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m425mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M4345MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m4345mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M435MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m435mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M451",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m351-m451-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M452",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m377mfp-m452-m477mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M4555MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m4555mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M475MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m375mfp-m475mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M476MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m476mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M477MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m377mfp-m452-m477mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M501",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m501-m506-m527mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M5025MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m5025mfp-m5035mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M5035MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m5025mfp-m5035mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M506",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m501-m506-m527mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M521MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m521mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M525",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m525-m525cmfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M525CMFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m525-m525cmfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M527MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m501-m506-m527mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M551",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-m551-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M4345MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m4345mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P3005",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p3005-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M552",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m552-m553-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M553",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m552-m553-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M570MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m570mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M575CMFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m575-m575cmfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M575MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m575-m575cmfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M577MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m577mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M601",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m601-m602-m603-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M602",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m601-m602-m603-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M603",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m601-m602-m603-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M604",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m604-m605-m606-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M605",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m604-m605-m606-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M606",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m604-m605-m606-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M607",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m607-m608-m609-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M608",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m607-m608-m609-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M609",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m607-m608-m609-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M630MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m630mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M631MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m631mfp-m632mfp-m633mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M632MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m631mfp-m632mfp-m633mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M633MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m631mfp-m632mfp-m633mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M651",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m651-m680mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M652",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m652-m653-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M653",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-m652-m653-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M680MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m651-m680mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M681MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m681mfp-m682mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M682MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-clj-m681mfp-m682mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP2025",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp2025-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP4025",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp4025-cp4525-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP4525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp4025-cp4525-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP5225",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp5525-cp5225-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP5525",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-cp5525-cp5225-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M701",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m701-m706-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M706",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m701-m706-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M712",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m712-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3015",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3015-3020-3030-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3020",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3015-3020-3030-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3030",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3015-3020-3030-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3050",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3050-3052-3055-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3052",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3050-3052-3055-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 3055",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3050-3052-3055-aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP LJ 9000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-9000-9050-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P2035",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p2035-p2055-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P2055",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p2035-p2055-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P3015",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p3015-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 8150",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-8100-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 5500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-5500-5550-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M725MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m725mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 9500",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-9500-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-2550-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 2605",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-2605-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3000",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3000-3600-3800-cp3505-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3600",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3000-3600-3800-cp3505-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3800",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3000-3600-3800-cp3505-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CP3505",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3000-3600-3800-cp3505-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3500-3550-3700-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3500-3550-3700-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 3700",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-3500-3550-3700-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-4500-4550-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4550",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-clj-4500-4550-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M806",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-m806-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M830MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m830mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M9040MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m9040mfp-m9050mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M9050MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m9040mfp-m9050mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 4700",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-4700-cp4005-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P1100",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p1100-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P1560",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p1560-p1600-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP P1600",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-p1560-p1600-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP CLJ 9500",
+    "PrinterGroup": "HP Color LaserJet",
+    "Pdf": [
+      "hp-9500-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M201MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m201-m202mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M202MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m201-m202mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 3200MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3200mfp-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP M176",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-m176-m177-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 5Si",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-5si-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 2300",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-2300-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 2400",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-2400-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 2820AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-2820-2830-2840aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 2830AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-2820-2830-2840aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 2840AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-2820-2830-2840aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 3380AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3380aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 3390AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3390-3392aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 3392AIO",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-3390-3392aio-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4000",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4000-4050-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4050",
+    "PrinterGroup": "HP Monochrome LaserJet",
+    "Pdf": [
+      "hp-4000-4050-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4100MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-4100-maintenance-kit.pdf"
+    ]
+  },
+  {
+    "ModelName": "HP 4101MFP",
+    "PrinterGroup": "HP Multifunction LaserJet",
+    "Pdf": [
+      "hp-4100-4101mfp-maintenance-kit.pdf"
+    ]
+  }
+]
