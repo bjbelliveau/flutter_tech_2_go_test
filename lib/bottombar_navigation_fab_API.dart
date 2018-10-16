@@ -118,7 +118,7 @@ class FABBottomAppBarState extends State<FABBottomAppBar> {
               Icon(item.iconData, color: color, size: screenAwareSize(widget.iconSize, context)),
               Text(
                 item.text,
-                style: TextStyle(color: color, fontSize: screenAwareSize(15.0, context)),
+                style: TextStyle(color: color, fontSize: screenAwareSize(12.0, context)),
               )
             ],
           ),

@@ -51,22 +51,22 @@
   },
   {
     "ModelName": "HP 4+/5 Fusing Assembly",
-    "ItemNumber": "RG5-0879-RO",
+    "ItemNumber": "RG5-0879",
     "CrossRef": "C2037-69001"
   },
   {
     "ModelName": "HP 4000/4050 Fusing Assembly",
-    "ItemNumber": "RG5-2661-RO",
+    "ItemNumber": "RG5-2661",
     "CrossRef": "C4118-69003, C4118-69011, RG5-2657"
   },
   {
     "ModelName": "HP 5Si/8000 Fusing Assembly",
-    "ItemNumber": "RG5-4447-RO",
+    "ItemNumber": "RG5-4447",
     "CrossRef": "RG5-3686-RO, C3166-69017, C3166-69012, C3166-69001, RG5-3686, RG5-1863"
   },
   {
     "ModelName": "HP 4100 Fusing Assembly",
-    "ItemNumber": "RG5-5063-RO",
+    "ItemNumber": "RG5-5063",
     "CrossRef": "C8049-69007, C8049-69001"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "ModelName": "HP 8100/8150 Fusing Assembly",
-    "ItemNumber": "RG5-6532-RO",
+    "ItemNumber": "RG5-6532",
     "CrossRef": "RG5-4318, RG5-4315, C4214-69007, C4214-69018, C4265-69002, C4265-69004, C4265-69008"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "ModelName": "HP CLJ 5550 Fusing Assembly",
-    "ItemNumber": "RG5-7691-RO",
+    "ItemNumber": "RG5-7691",
     "CrossRef": "Q3984A, Q3984-67901"
   },
   {

@@ -10,6 +10,10 @@ dependencies:
   cupertino_icons: ^0.1.0
   material_design_icons_flutter: 2.7.94
   auto_size_text: 0.0.2
+  flutter_swiper: ^1.1.2
+  recase: ^2.0.0+1
+  flutter_pdf_viewer: ^0.0.4
+  url_launcher: ^4.0.1
 
 dev_dependencies:
   flutter_test:
@@ -27,8 +31,16 @@ flutter:
   uses-material-design: true
 
   assets:
-      - assets/json/fuserList.json
+      - assets/json/
       - assets/images/
+      - assets/pdf/tips/
+
+  fonts:
+      - family: Montserrat
+        fonts:
+            - asset: assets/fonts/Montserrat-Bold.ttf
+            - asset: assets/fonts/Montserrat-Light.ttf
+            - asset: assets/fonts/Montserrat-Medium.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
